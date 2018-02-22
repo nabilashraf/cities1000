@@ -12,7 +12,7 @@ You can find the original on
 
 ```
 var fs = require('fs');
-var cities = require('cities1000');
+var cities = require('cities-with-1000');
 var lines = fs.readFileSync(cities.file, 'utf8').split('\n');
 // ...
 ```
@@ -20,7 +20,7 @@ var lines = fs.readFileSync(cities.file, 'utf8').split('\n');
 # attributes
 
 ``` js
-var cities = require('cities1000')
+var cities = require('cities-with-1000');
 ```
 
 ## cities.file
