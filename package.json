@@ -1,0 +1,27 @@
+{
+  "name": "geonames-cities1000",
+  "version": "1.0.0",
+  "description": "lat/lon, population, name of cities with over 1000 people from geonames.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nabilashraf/cities1000.git"
+  },
+  "keywords": [
+    "latitude",
+    "longitude",
+    "population",
+    "city",
+    "country",
+    "adminCode"
+  ],
+  "author": "Nabil Ashraf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabilashraf/cities1000/issues"
+  },
+  "homepage": "https://github.com/nabilashraf/cities1000#readme"
+}
