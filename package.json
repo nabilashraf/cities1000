@@ -1,6 +1,6 @@
 {
   "name": "cities-with-1000",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "lat/lon, population, name of cities with over 1000 people from geonames.org",
   "main": "index.js",
   "scripts": {
