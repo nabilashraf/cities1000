@@ -3,7 +3,7 @@
 This is a dataset with the latitude and longitude of all cities on planet earth
 with greater than 1000 people.
 
-**Last Updated at 18 March 2020**
+**Last Updated at 06 January 2023**
 
 You can find the original on
 [geonames.org](http://download.geonames.org/export/dump/).
